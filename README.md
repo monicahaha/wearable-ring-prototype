@@ -6,10 +6,16 @@
 
 ## 原型照片
 
-![柔性电路戒指原型](ring-photo.jpg)
+<img width="3024" height="4032" alt="ring-photo" src="https://github.com/user-attachments/assets/f719de4c-3c0c-48ee-8fc2-360c490aa6da" />
 
 ## 演示视频
 
-[查看演示视频 1](flexible-circuit-ring-demo-1.mp4)
+https://github.com/user-attachments/assets/6fe9b8d8-7e4e-4892-99c6-2af91398b109
 
-[查看演示视频 2](flexible-circuit-ring-demo-2.mp4)
+
+
+https://github.com/user-attachments/assets/917b41b2-35d4-4e69-9ad9-f05224fd83dc
+
+
+
+
